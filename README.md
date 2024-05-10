@@ -11,7 +11,9 @@
 <a href="https://www.leetcode.com/roshankdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshankdk" height="30" width="40" /></a>
 </p>
 
+
+<p align="left">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshankdk&show_icons=true&locale=en" alt="roshankdk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankdk&" alt="roshankdk" /></p>
-
+</p>
