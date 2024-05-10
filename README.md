@@ -12,8 +12,7 @@
 </p>
 
 
-<p align="center">
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshankdk&show_icons=true&locale=en" alt="roshankdk" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankdk&" alt="roshankdk" /></p>
-</p>
+</div>
