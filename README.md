@@ -2,7 +2,6 @@
 <h3 align="center">Shaping the Web: Crafting Code with Finesse</h3>
 <br>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshankdk&show_icons=true&locale=en" alt="roshankdk" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankdk&" alt="roshankdk" /></p>
 </div>
 <br>
